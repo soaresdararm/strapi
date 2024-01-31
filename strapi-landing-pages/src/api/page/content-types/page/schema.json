@@ -26,8 +26,17 @@
       "type": "dynamiczone",
       "components": [
         "section.section-two-columns",
-        "section.section-grid"
+        "section.section-grid",
+        "section.section-contect"
       ]
+    },
+    "footer_text": {
+      "type": "blocks"
+    },
+    "menu": {
+      "type": "component",
+      "repeatable": false,
+      "component": "menu.menu"
     }
   }
 }
